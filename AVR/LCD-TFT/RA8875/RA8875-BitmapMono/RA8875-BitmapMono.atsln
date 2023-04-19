@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "RA8875-BitmapMono", "RA8875-BitmapMono\RA8875-BitmapMono.cproj", "{BC21FE6C-34BC-4EE2-BCAA-226E0BBD5B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC21FE6C-34BC-4EE2-BCAA-226E0BBD5B58}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BC21FE6C-34BC-4EE2-BCAA-226E0BBD5B58}.Debug|AVR.Build.0 = Debug|AVR
+		{BC21FE6C-34BC-4EE2-BCAA-226E0BBD5B58}.Release|AVR.ActiveCfg = Release|AVR
+		{BC21FE6C-34BC-4EE2-BCAA-226E0BBD5B58}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

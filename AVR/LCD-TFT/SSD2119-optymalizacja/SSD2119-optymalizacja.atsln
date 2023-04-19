@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SSD2119-optymalizacja", "SSD2119-optymalizacja\SSD2119-optymalizacja.cproj", "{50BCEF61-7C96-4D2D-AB32-534045FF7653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BCEF61-7C96-4D2D-AB32-534045FF7653}.Debug|AVR.ActiveCfg = Debug|AVR
+		{50BCEF61-7C96-4D2D-AB32-534045FF7653}.Debug|AVR.Build.0 = Debug|AVR
+		{50BCEF61-7C96-4D2D-AB32-534045FF7653}.Release|AVR.ActiveCfg = Release|AVR
+		{50BCEF61-7C96-4D2D-AB32-534045FF7653}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+{
+    "content": [
+    ],
+    "coprocessor": [
+        "CLEAR_COLOR_RGB(26, 29, 223)",
+        "CLEAR(1, 1, 1)",
+        "COLOR_RGB(245, 239, 50)",
+        "CMD_TEXT(98, 54, 30, 0, \"Test makrodefinicji\")",
+        "MACRO(0)",
+        "DISPLAY",
+        "CMD_BUTTON(17, 124, 206, 123, 27, 0, \"Podprogram pierwszy\")",
+        "RETURN",
+        "CMD_BUTTON(250, 124, 206, 123, 27, 0, \"Podprogram drugi\")",
+        "RETURN"
+    ],
+    "displayList": [
+        ""
+    ],
+    "project": {
+        "device": 2065
+    },
+    "registers": {
+        "hSize": 480,
+        "macro": [
+            ""
+        ],
+        "vSize": 272
+    }
+}

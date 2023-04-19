@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "RA8875-Bitmapy16b", "RA8875-Bitmapy16b\RA8875-Bitmapy16b.cproj", "{AD3E5F29-6869-41AE-A24D-72356A7A804B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3E5F29-6869-41AE-A24D-72356A7A804B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AD3E5F29-6869-41AE-A24D-72356A7A804B}.Debug|AVR.Build.0 = Debug|AVR
+		{AD3E5F29-6869-41AE-A24D-72356A7A804B}.Release|AVR.ActiveCfg = Release|AVR
+		{AD3E5F29-6869-41AE-A24D-72356A7A804B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

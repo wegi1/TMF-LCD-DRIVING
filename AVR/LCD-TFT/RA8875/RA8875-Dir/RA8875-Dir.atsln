@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "RA8875-Dir", "RA8875-Dir\RA8875-Dir.cproj", "{E14ECA21-AB0A-49D2-A93D-616EE70131BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14ECA21-AB0A-49D2-A93D-616EE70131BB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E14ECA21-AB0A-49D2-A93D-616EE70131BB}.Debug|AVR.Build.0 = Debug|AVR
+		{E14ECA21-AB0A-49D2-A93D-616EE70131BB}.Release|AVR.ActiveCfg = Release|AVR
+		{E14ECA21-AB0A-49D2-A93D-616EE70131BB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

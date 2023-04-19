@@ -1,0 +1,5 @@
+<Eve_Project_T ESDVersion="2.0.6" project_name="xmega" working_directory="D:/Ksiazka - XMEGA/przyklady/FT800/FT800-ESD-bitmap" height="272" width="480" platform="FT801">
+ <Eve_Screen_T screen_bm_ts="1482506610860" color="#000000" name="Page 1">
+  <Eve_Bitmap_T bheight="180" id="0" basename="avr-xmega-block-diagram" x_coordinate="147" height="180" width="211" format="RGB332" y_coordinate="45" suffix="jpg" filename="avr-xmega-block-diagram.jpg" bwidth="211" filteringmode="BILINEAR" scalex="0.999999979138374" bfolder="D:/Ksiazka - XMEGA/przyklady/FT800/FT800-ESD-bitmap/xmega_ConvertedImages" scaley="0.999999991059303" angle="0" wrapx="BORDER" name="Bitmap" wrapy="BORDER"/>
+ </Eve_Screen_T>
+</Eve_Project_T>

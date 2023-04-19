@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SSD2119-RECT-DMA", "SSD2119-RECT-DMA\SSD2119-RECT-DMA.cproj", "{64641FB6-06A8-41F5-855B-3E2A9450DD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64641FB6-06A8-41F5-855B-3E2A9450DD0E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{64641FB6-06A8-41F5-855B-3E2A9450DD0E}.Debug|AVR.Build.0 = Debug|AVR
+		{64641FB6-06A8-41F5-855B-3E2A9450DD0E}.Release|AVR.ActiveCfg = Release|AVR
+		{64641FB6-06A8-41F5-855B-3E2A9450DD0E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

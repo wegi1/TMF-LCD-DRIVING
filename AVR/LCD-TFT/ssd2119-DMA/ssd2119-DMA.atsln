@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ssd2119-DMA", "ssd2119-DMA\ssd2119-DMA.cproj", "{AEBEC9B6-161C-4C08-982F-F076B5BB5D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBEC9B6-161C-4C08-982F-F076B5BB5D79}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AEBEC9B6-161C-4C08-982F-F076B5BB5D79}.Debug|AVR.Build.0 = Debug|AVR
+		{AEBEC9B6-161C-4C08-982F-F076B5BB5D79}.Release|AVR.ActiveCfg = Release|AVR
+		{AEBEC9B6-161C-4C08-982F-F076B5BB5D79}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

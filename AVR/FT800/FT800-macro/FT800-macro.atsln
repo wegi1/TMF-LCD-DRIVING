@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FT800-macro", "FT800-macro\FT800-macro.cproj", "{996BF403-00EC-4CBB-BBD3-FE217CAC78CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996BF403-00EC-4CBB-BBD3-FE217CAC78CE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{996BF403-00EC-4CBB-BBD3-FE217CAC78CE}.Debug|AVR.Build.0 = Debug|AVR
+		{996BF403-00EC-4CBB-BBD3-FE217CAC78CE}.Release|AVR.ActiveCfg = Release|AVR
+		{996BF403-00EC-4CBB-BBD3-FE217CAC78CE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

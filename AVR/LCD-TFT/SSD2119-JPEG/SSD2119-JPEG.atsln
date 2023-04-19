@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SSD2119-JPEG", "SSD2119-JPEG\SSD2119-JPEG.cproj", "{EB54CCF8-EE38-4A59-8115-990EB9673AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB54CCF8-EE38-4A59-8115-990EB9673AE4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EB54CCF8-EE38-4A59-8115-990EB9673AE4}.Debug|AVR.Build.0 = Debug|AVR
+		{EB54CCF8-EE38-4A59-8115-990EB9673AE4}.Release|AVR.ActiveCfg = Release|AVR
+		{EB54CCF8-EE38-4A59-8115-990EB9673AE4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

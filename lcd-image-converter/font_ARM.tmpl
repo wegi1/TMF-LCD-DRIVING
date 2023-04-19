@@ -1,0 +1,65 @@
+$(start_block_header)
+/*******************************************************************************
+* $(doc_data_type)
+* filename: $(doc_filename)
+* name: $(doc_name)
+* family: $(fnt_family)
+* size: $(fnt_size)
+* style: $(fnt_style)
+* included characters: $(fnt_string)
+* antialiasing: $(fnt_antialiasing)
+* type: $(fnt_width_type)
+* encoding: $(fnt_encoding)
+* unicode bom: $(fnt_use_bom)
+*
+* preset name: $(out_preset_name)
+* data block size: $(img_data_block_size) bit(s), uint$(img_data_block_size)_t
+* RLE compression enabled: $(img_rle)
+* conversion type: $(pre_conv_type), $(pre_mono_type) $(pre_mono_edge)
+* bits per pixel: $(out_bpp)
+*
+* preprocess:
+*  main scan direction: $(pre_scan_main)
+*  line scan direction: $(pre_scan_sub)
+*  inverse: $(pre_inverse)
+*******************************************************************************/
+
+#include <stdint.h>
+
+
+#define yes 1
+#define no  0
+
+#if $(fnt_antialiasing) == yes
+#define font_aa  0x80
+#else
+#define font_aa  0x00
+#endif
+
+#if $(img_rle) == yes
+#define font_RLE  0x40
+#else
+#define font_RLE  0x00
+#endif
+
+$(end_block_header)
+
+$(start_block_images_table)
+static const uint$(img_data_block_size)_t image_data_$(doc_name_ws)_0x$(out_char_code)[$(out_blocks_count)+1] = {
+    $(out_image_width), $(out_image_data)
+};
+$(end_block_images_table)
+
+const uint8_t* const $(doc_name_ws)_array[] = {
+(const uint8_t *)($(out_bpp) | font_aa | font_RLE),
+(const uint8_t *)$(out_image_height), (const uint8_t *)$(out_images_count),
+$(start_block_images_table)
+  image_data_$(doc_name_ws)_0x$(out_char_code)$(out_comma)   // character: '$(out_char_text)'
+$(end_block_images_table)
+};
+
+
+#undef yes
+#undef no
+#undef font_aa
+#undef font_RLE

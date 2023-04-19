@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SSD2119-AAFonts", "SSD2119-AAFonts\SSD2119-AAFonts.cproj", "{CD0E9154-BDCB-4AC0-8041-3710622688BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0E9154-BDCB-4AC0-8041-3710622688BC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CD0E9154-BDCB-4AC0-8041-3710622688BC}.Debug|AVR.Build.0 = Debug|AVR
+		{CD0E9154-BDCB-4AC0-8041-3710622688BC}.Release|AVR.ActiveCfg = Release|AVR
+		{CD0E9154-BDCB-4AC0-8041-3710622688BC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

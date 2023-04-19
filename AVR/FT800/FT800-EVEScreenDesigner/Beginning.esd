@@ -1,0 +1,9 @@
+<Eve_Project_T height="272" project_name="Beginning" platform="FT801" working_directory="D:/Ksiazka - XMEGA/przyklady/FT800/FT800-EVEScreenDesigner" width="480" ESDVersion="2.0.6">
+ <Eve_Screen_T name="Page 1" Blue="" color="#00007f">
+  <Eve_Button_T height="47" font="30" x_coordinate="265" name="Eve Button" Green="" y_coordinate="207" draw3deffect="1" id="0" Blue="" Red="" width="112" label="Cancel" fgcolor="#9e0000" gradientcolor="#ffffff" labelcolor="#ffffff"/>
+  <Eve_Button_T height="47" font="30" x_coordinate="88" name="Eve Button" Green="" y_coordinate="207" draw3deffect="1" id="0" Blue="" width="112" label="Ok" fgcolor="#009900" gradientcolor="#ffffff" labelcolor="#ffffff"/>
+  <Eve_Toggle_T label_on="On" font="27" x_coordinate="264" name="Eve Toggle" y_coordinate="167" barcolor="#002040" state="1" draw3deffect="1" id="0" width="74" knobcolor="#003870" textcolor="#ffffff" label_off="Off"/>
+  <Eve_Toggle_T label_on="On" font="27" x_coordinate="133" name="Eve Toggle" y_coordinate="167" barcolor="#002040" state="1" draw3deffect="1" id="0" width="74" knobcolor="#003870" textcolor="#ffffff" label_off="Off"/>
+  <Eve_Text_T halign="center" font="31" x_coordinate="235" name="Eve Text" y_coordinate="98" resizeable="0" id="0" Blue="" color="#ffff00" radius="7" label="Nasz pierwszy ekran" valign="center"/>
+ </Eve_Screen_T>
+</Eve_Project_T>

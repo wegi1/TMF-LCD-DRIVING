@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SSD2119-vscroll", "SSD2119-vscroll\SSD2119-vscroll.cproj", "{584F07F6-2654-49D0-9645-9C0655F4B726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584F07F6-2654-49D0-9645-9C0655F4B726}.Debug|AVR.ActiveCfg = Debug|AVR
+		{584F07F6-2654-49D0-9645-9C0655F4B726}.Debug|AVR.Build.0 = Debug|AVR
+		{584F07F6-2654-49D0-9645-9C0655F4B726}.Release|AVR.ActiveCfg = Release|AVR
+		{584F07F6-2654-49D0-9645-9C0655F4B726}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
